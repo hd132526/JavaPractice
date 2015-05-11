@@ -42,6 +42,7 @@ public class Question {
 			System.out.println("틀렸습니다!! TT");
 		scanner3.close();
 		
+		
 		return;
 	}
 }
